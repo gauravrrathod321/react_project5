@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "mangle",
+      "address": "chandrapur",
+      "mobnumber": "7896522445",
+      "email": "mangle321@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "ravi",
+      "address": "ahilyabai nager",
+      "mobnumber": "7853214005",
+      "email": "ravi321@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "abhishek",
+      "address": "pusad",
+      "mobnumber": "9965325605",
+      "email": "abhishekh321@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "mangle",
+      "address": "pune",
+      "mobnumber": "852140326",
+      "email": "mangle321@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "ajay",
+      "address": "nagar",
+      "mobnumber": "7869532145",
+      "email": "ajay321@gmial.com",
+      "id": 7
+    }
+  ]
+}
